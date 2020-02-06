@@ -1,7 +1,7 @@
 # Information Card
 ## Created using Flutter
 
-This business cards contains:
+This business card contains:
 * Name
 * Occupation
 * Phone Number
